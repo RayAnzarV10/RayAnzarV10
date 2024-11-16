@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayAnzarV10
 - 👀 I’m interested in programming applications in LATAM finance
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, SQL and Next.js
 - 📫 How to reach me
       - rayfcoanzar@gmail.com
       - IG: @ray_anzar_v   
